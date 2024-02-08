@@ -1,2 +1,2 @@
 # python-with-math
-문제해결 파이썬 with 기본 수학 스터디
+문제해결 파이썬 with 기본 수학 실습
