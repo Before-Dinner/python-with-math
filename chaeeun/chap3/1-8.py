@@ -1,0 +1,6 @@
+s1 = input()
+s2 = input()
+n1 = int(s1)
+n2 = int(s2)
+print(s1 + s2)
+print(n1 + n2)
